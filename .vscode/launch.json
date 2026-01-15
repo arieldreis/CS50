@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/Users/Caroline Marinho/Documents/GitHubClone/CS50/week_01",
+      "program": "c:/Users/Caroline Marinho/Documents/GitHubClone/CS50/week_01/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
