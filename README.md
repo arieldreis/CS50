@@ -1,59 +1,126 @@
-# 📘 CS50 – Week 1: C Language
+# 🎓 CS50 – Introduction to Computer Science (Harvard University)
 
-This repository contains my studies, exercises, and practice files from **Week 1 of CS50 (Harvard University)**, where I started learning the **C programming language**.
+This repository documents my journey through **CS50**, Harvard University’s renowned introduction to computer science course.
 
-CS50 is an introduction to computer science, and in this week the focus is on understanding how programs work at a lower level using C.
-
----
-
-## 🚀 What I’m Learning in This Week
-
-- Basic structure of a C program  
-- Variables and data types  
-- Conditions (`if`, `else`)  
-- Loops (`for`, `while`)  
-- Functions  
-- Input and output  
-- Problem-solving using C  
+Throughout this course, I will explore core concepts of computer science, learn multiple programming languages, and develop real-world projects that strengthen my problem-solving and logical thinking skills.
 
 ---
 
-## 📂 Repository Structure
+## 📘 About CS50
 
-Each file represents a practice exercise or problem related to the topics studied in Week 1.  
-The goal of this repository is **learning and improvement**, not perfection.
+CS50 is an entry-level course that teaches students how to think algorithmically and solve problems efficiently.  
+The course starts with low-level concepts and gradually moves to higher-level abstractions and modern technologies.
+
+Topics include:
+- Algorithms
+- Data structures
+- Memory
+- Software engineering
+- Web development
+- Computer science fundamentals
 
 ---
 
-## 🛠️ Technologies Used
+## 🧠 What I Will Learn
 
-- **C Language**
-- **CS50 Library**
+- Computational thinking
+- Problem-solving strategies
+- Programming fundamentals
+- Writing clean and efficient code
+- Debugging and testing
+- Building real projects from scratch
+
+---
+
+## 🛠️ Technologies & Languages
+
+During the course, I will work with:
+
+- **C**
+- **Python**
+- **SQL**
+- **HTML, CSS**
+- **JavaScript**
+- **Flask**
 - **Git & GitHub**
-- **VS Code / CS50 IDE**
 
 ---
 
-## 🎯 Purpose
+## 📂 Course Projects & Weeks
 
-This repository was created to:
+### 🟦 Week 0 – Scratch
+- Introduction to programming concepts
+- Visual programming with Scratch
 
-- Track my progress in CS50  
-- Practice C programming  
-- Build a strong foundation in computer science  
-- Improve problem-solving skills  
+### 🟦 Week 1 – C
+- Variables, conditions, loops
+- Functions
+- Problem sets using C
+
+### 🟦 Week 2 – Arrays
+- Arrays and strings
+- Algorithms
+- Memory basics
+
+### 🟦 Week 3 – Algorithms
+- Searching and sorting
+- Big O notation
+
+### 🟦 Week 4 – Memory
+- Pointers
+- Dynamic memory allocation
+- Debugging tools
+
+### 🟦 Week 5 – Data Structures
+- Linked lists
+- Hash tables
+- Tries
+
+### 🟦 Week 6 – Python
+- Programming with Python
+- Translating logic from C to Python
+
+### 🟦 Week 7 – SQL
+- Databases
+- Queries
+- Data manipulation
+
+### 🟦 Week 8 – HTML, CSS, JavaScript
+- Web development basics
+- Front-end concepts
+
+### 🟦 Week 9 – Flask
+- Back-end development
+- Web applications
+
+### 🟦 Final Project
+- A complete project applying everything learned during the course
 
 ---
 
-## 📚 Course Info
+## 🎯 Purpose of This Repository
+
+This repository exists to:
+
+- Track my progress throughout CS50
+- Store all problem sets and projects
+- Practice version control with Git
+- Build a solid computer science foundation
+- Showcase my learning journey
+
+---
+
+## 📚 Course Information
 
 - **Course:** CS50 – Introduction to Computer Science  
-- **University:** Harvard University  
-- **Week:** 1  
+- **Institution:** Harvard University  
+- **Platform:** edX / Harvard  
 
 ---
 
-## 🧠 Notes
+## 🧠 Final Notes
 
-This is part of my learning journey.  
-Mistakes are expected — learning is the goal 💪
+This repository reflects my learning process.  
+Mistakes, refactoring, and improvements are part of the journey 🚀  
+
+**Learning > Perfection**
