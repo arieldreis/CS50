@@ -4,7 +4,7 @@ void print_row(int n);
 
 int main(void)
 {
-    const n = 3;
+    const int n = 3;
     
     // Print n rows
     for(int i = 0; i < n; i++)
