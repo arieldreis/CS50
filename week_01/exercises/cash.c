@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <cs50.h>
+// #include <cs50.h>
 
 void calculate_cents(int cents);
 
