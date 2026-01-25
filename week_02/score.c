@@ -1,17 +1,7 @@
 #include <stdio.h>
-// #include <cs50.h>
+// #include <cs50.h> 
 
-double average(int length[], int N){
-    int sum = 0;
-    for(int index = 0; index < N; index++){
-        sum += length[index];
-    }
-
-    double media = (double) sum / N;
-
-    return media;
-}
-
+double average(int length[], int N);
 
 int main(void){
     // Arrays
@@ -24,4 +14,15 @@ int main(void){
 
     double funAvg = average(scores, N);
     printf("Average: %f\n", funAvg);
+}
+
+double average(int length[], int N){
+    int sum = 0;
+    for(int index = 0; index < N; index++){
+        sum += length[index];
+    }
+
+    double media = (double) sum / N;
+
+    return media;
 }
